@@ -412,7 +412,7 @@ https://cdn.helvid.com/video/m3u8/202312/ea6c4e64676b/playlist.m3u8
 https://cdn.helvid.com/video/m3u8/202312/35071d1f12fb/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Xin Chào Thầy" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/xinchaothay.jpg", Xin Chào Thầy T1
-https://cdn.helvid.com/video/m3u8/202310/6f8ef2ae6e62/playlist.m3u8
+https://cdn.helvid.com/video/m3u8/202310/6f8ef2ae6e62/playlist.m3u8#|Referer:https://helvid.com/
 #EXTINF:-1 tvg-name="Xin Chào Thầy" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/xinchaothay.jpg", Xin Chào Thầy T2
 https://cdn.helvid.com/video/m3u8/202310/0986cf1fa7b4/playlist.m3u8
 #EXTINF:-1 tvg-name="Xin Chào Thầy" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/xinchaothay.jpg", Xin Chào Thầy T3
