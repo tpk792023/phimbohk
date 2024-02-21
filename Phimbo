@@ -41,6 +41,26 @@ https://cdn.helvid.com/video/m3u8/202401/533f1f77098a/playlist.m3u8
 #EXTINF:-1 tvg-name="Sức Mạnh Cú Đấm" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/sucmanhcudam.jpg", Sức mạnh cú đấm T20
 https://cdn.helvid.com/video/m3u8/202401/a6e2002cdd10/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T1
+https://helvid.321watch.com/video/m3u8/202402/00cfbe3e61f7/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T2
+https://helvid.321watch.com/video/m3u8/202402/a2355e295914/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T3
+https://helvid.321watch.com/video/m3u8/202402/6bec5490c8d0/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T4
+https://helvid.321watch.com/video/m3u8/202402/2b2d5e6b2018/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T5
+https://helvid.321watch.com/video/m3u8/202402/9cc45ac5a17a/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T6
+https://helvid.321watch.com/video/m3u8/202402/2bf3b238be2a/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T7
+https://helvid.321watch.com/video/m3u8/202402/f49d21191d53/playlist.m3u8
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T8
+https://helvid.321watch.com/video/m3u8/202402/aa65a66fab78/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="Thanh kiếm Tiềm Long" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanh-kiem-tiem-long.jpg", Thanh kiếm Tiềm Long T1
 https://cdn.helvid.com/video/m3u8/202312/79b0551137e2/playlist.m3u8
 #EXTINF:-1 tvg-name="Thanh kiếm Tiềm Long" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanh-kiem-tiem-long.jpg", Thanh kiếm Tiềm Long T2
