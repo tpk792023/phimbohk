@@ -58,6 +58,52 @@ https://helvid.321watch.com/video/m3u8/202402/f49d21191d53/playlist.m3u8
 #EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T8
 https://helvid.321watch.com/video/m3u8/202402/aa65a66fab78/playlist.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 01
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-1.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 02
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-2.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 03
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-3.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 04
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-4.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 05
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-5.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 06
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-6.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 07
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-7.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 08
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-8.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 09
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-9.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 10
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-10.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 11
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-11.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 12
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-12.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 13
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-13.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 14
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-14.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 15
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-15.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 16
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-16.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 17
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-17.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 18
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-18.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 19
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-19.html
+#EXTINF:-1 group-title="Lãnh Địa Phi Ưng" tvg-logo="https://www.phimlongtieng.net/upload/images/phim/phim/lanhdiaphiung.jpg", 20
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lanh-dia-phi-ung/tap-20.html
+
+
 #EXTINF:-1 tvg-name=" Truyền Thuyết Liêu Trai II" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/truyenthuyetlieutrai2-1699879357.jpg",  Truyền Thuyết Liêu Trai II T1
 https://cdn.helvid.com/video/m3u8/202310/5371ce7139d6/playlist.m3u8
 #EXTINF:-1 tvg-name=" Truyền Thuyết Liêu Trai II" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/truyenthuyetlieutrai2-1699879357.jpg",  Truyền Thuyết Liêu Trai II T2
