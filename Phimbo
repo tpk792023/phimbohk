@@ -79,7 +79,8 @@ https://vip.opstream8.com/20240201/366_44ac25e9/index.m3u8
 https://vip.opstream8.com/20240201/365_875a8df0/index.m3u8
 #EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T19
 https://vip.opstream8.com/20240201/364_4356a170/index.m3u8
-
+#EXTINF:-1 tvg-name="TẾ CÔNG" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/te-cong-1619952461.jpg", TẾ CÔNG T20
+https://helvid.321watch.com/video/m3u8/202402/e813c04fb8d3/playlist.m3u8
 #EXTINF:-1 group-title="Trinh Sát Hành Động" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/trinhsathanhdong.jpg",Trinh Sát Hành Động 01
 http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-trinh-sat-hanh-dong/tap-1.html
 #EXTINF:-1 group-title="Trinh Sát Hành Động" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/trinhsathanhdong.jpg",Trinh Sát Hành Động 02
