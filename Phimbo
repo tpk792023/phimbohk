@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Sức Mạnh Cú Đấm" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/sucmanhcudam.jpg", Sức mạnh cú đấm T1
+#EXTVLCOPT:http-user-agen=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn.helvid.com/video/m3u8/202402/777b9a8ecbf4/playlist.m3u8|https://helvid.net/
 #EXTINF:-1 tvg-name="Sức Mạnh Cú Đấm" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/sucmanhcudam.jpg", Sức mạnh cú đấm T2
 https://cdn.helvid.net/video/m3u8/202401/f8ef5a5bc7f3/playlist.m3u8
