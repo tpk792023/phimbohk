@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VĐQG Ả RẬP XÊ ÚT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Ahli vs Al Nassr (Vòng 24 mùa giải 2023/2024)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.17G80 (iPad; U; CPU OS 13_6_1 like Mac OS X; vi_vn)
+https://cdn.helvid.com/video/m3u8/202312/eac6337487e2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sức Mạnh Cú Đấm" group-title="PHIM BỘ" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/sucmanhcudam.jpg", Sức mạnh cú đấm T1
 #EXTVLCOPT:http-user-agen=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://cdn.helvid.com/video/m3u8/202402/777b9a8ecbf4/playlist.m3u8|https://helvid.net/
